@@ -164,3 +164,4 @@ Submit your work.
 [hasMany-docs]: https://sequelize.org/master/class/src/associations/has-many.js~HasMany.html
 [belongsToMany-docs]: https://sequelize.org/master/class/src/associations/belongs-to-many.js~BelongsToMany.html#instance-method-add
 # aa11-sequelize-insert-with-associations
+# aa11-sequelize-insert-with-associations
